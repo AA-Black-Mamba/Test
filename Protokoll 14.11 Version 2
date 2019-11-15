@@ -1,0 +1,51 @@
+AA-Black Mamba Protokoll  
+14.11.2019 9:30- 10:30
+Organisation
+Für das Projektmanagement wurde sich auf folgendes Tool festeglegt: Trello 
+Des Weiteren wird mit Git und Jupyter Notebook gearbeitet
+
+Ein 1. Grober Zeitplan wurde erstellt: 
+14.11.19 - 16.11.19	
+16.12.19 - 30.12.19	Predictive Modelling 
+31.12.19 - 06.01.20	 Puffer Zeitraum
+07.01.20 - 26.12.20	Notebook „glattbügeln“, Paper schreiben, ausführlicher Appendix erstellen, 
+		            	Verzeichnisse erstellen, Diskussion und Ausblick formulieren
+27.01.20 - 29.01.20 	letzter Puffer
+30.01.20 		Abgabe 
+
+Jourfixe immer Donnerstag 9:30 - 10:30 Ort: tbd
+Idee: wechselnden Moderator einführen, der eine Agenda erstellt und die Gruppe durch den Jourfixe leitet. Outcome: Wir probieren es erst einmal ohne, und entscheiden beim nächsten Treffen erneut, ob ein Moderator in Frage kommt. 
+Protokolle, werden erstmal weiter gehalten
+
+Wenn wir in einem Dokument Coden gelten folgende Reggeln: 
+-	Es werden Kürzel verwendet
+-	Jeder Code muss so kommentiert werden, dass ihn ein dritter nachvollziehen kann
+-	Alte/ überarbeitete Codes werden nicht gelöscht, sondern auskommentiert
+-	Versioniert wird automatisch 
+Erste Gruppeneinteilung und AP Beschreibung 
+Idee: Es werden zwei Gruppen gebildet, die sich jeweils auf einen Datensatz konzentrieren. Die Gruppen sollen sich gegenseitig gegenchecken und helfen/korrigieren. Ob dieser Ansatz, und die Aufteilung der Gruppen sinnvoll ist, wird beim nächsten Treffen nochmal geprüft. 
+
+Gruppe Wetter
+Nina, Nicklas, Sophia
+Grobes AP: Vorbereitung und Auswertung der Daten, sodass sie für das Predictive Model genutzt werden können. 
+Gruppe Fahrrad
+Johanna, Alex
+Grobes AP: Vorbereitung der Fahrraddaten, Clustern und deskriptive Analysis durchführen mit den Fahrraddaten. 
+Die Gruppen schauen sich bis zum 17.11 die Daten grob 
+
+To-dos
+Was	Wer	Bis wann
+Trello einrichten	Sophia	17.11
+Raum mit Wlan organisieren	Alex	21.11
+Gruppeneinteilung sinnvoll?	Alle	17.11
+Moderator einführen?	Alle	21.11
+Daten anschauen	Gruppe Fahrrad, Gruppe Wetter	17.11
+VL Recherche (Anforderungen, etc.) 	Alle	17.11
+
+Wie wird der Code bewertet	Sophia, Nina	17.11
+
+
+Sonntag 17.11: 
+Sind unsere Einschätzungen realistisch? 
+Konkrete Aufgaben Festlegen 
+
